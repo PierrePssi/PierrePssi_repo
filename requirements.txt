@@ -1,0 +1,10 @@
+streamlit
+numpy>=1.21,<2.0
+pandas
+plotly
+matplotlib
+seaborn
+scipy
+altair
+wordcloud
+Pillow

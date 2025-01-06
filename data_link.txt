@@ -1,0 +1,8 @@
+
+Veuillez trouver ci-dessus le lien du jeu de données : 
+
+- https://opendata.paris.fr/explore/dataset/paris-wi-fi-utilisation-des-hotspots-paris-wi-fi/table/?disjunctive.incomingzonelabel&disjunctive.incomingnetworklabel&disjunctive.device_portal_format&disjunctive.device_constructor_name&disjunctive.device_operating_system_name_version&disjunctive.device_browser_name_version&disjunctive.userlanguage
+
+Nous avons déployer notre Streamlit, ci-dessous notre lien : 
+
+- https://hotpost-wifi-paris-project.streamlit.app/
