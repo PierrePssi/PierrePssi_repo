@@ -1,3 +1,1 @@
-Bienvenue sur mon git :) 
-
-Il me permet de tracer les différents proejts réalisés dans le cadre de ma formation et projets personnels
+Projet SQL réalisé dans le cadre d'un apprentissage au langage. 
