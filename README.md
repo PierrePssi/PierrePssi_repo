@@ -1,6 +1,1 @@
-Bienvenue sur mon Git :) 
-
-Je répertorie ici l'ensemble de mes projets réalisés dans le cadre d'une formation.
-Des projets personnels y verront peut être le jour.
-
-L'ensemble de mes projets sont répertoriés dans des dossiers.
+Ce projet consiste en une analyse statistique réalisée en Python, visant à explorer, visualiser et interpréter des données grâce à des bibliothèques comme pandas, numpy et matplotlib, afin d’extraire des insights pertinents.
